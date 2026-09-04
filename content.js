@@ -60,7 +60,7 @@ window.CONTENT = {
   /* ---------- ССЫЛКИ НА КНОПКАХ ----------
      Сюда вставьте адреса целиком, вместе с https://
      Пока телеграм пустой, кнопки ведут в раздел контактов        */
-  link_telegram:  "",
+  link_telegram:  "https://t.me/elisbat23",
   link_instagram: "https://www.instagram.com/elgina_usa/",
   link_mbank:     ""
 
